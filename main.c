@@ -16,13 +16,13 @@ struct Student{
 
 int main(){
     struct Student *s;
-    int n,n2;
+    int n;
     printf("Enter the number of records you want : ");
     scanf("%d",&n);
     s = (struct Student*)malloc(n*sizeof(struct Student)); //Memory allocated in the heap
     int i=0;
     int count=0;
-    int c;
+    int c=0;
     while(c!=4){
         //Menu for the system
         printf("\n\t\t=====Welcome To Srm Student Record System=====\n");
