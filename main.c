@@ -25,7 +25,7 @@ int main(){
     int c;
     while(c!=4){
         //Menu for the system
-        printf("\t\t=====Welcome To Srm Student Record System=====\n");
+        printf("\n\t\t=====Welcome To Srm Student Record System=====\n");
         printf("Enter 1 to store the details\n");
         printf("Enter 2 to display the details\n");
         printf("Enter 3 to display total number of records\n");
