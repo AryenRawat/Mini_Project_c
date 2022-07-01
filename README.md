@@ -11,3 +11,6 @@ Enter 3 to display total number of records
 
 
 Enter 4 to quite the system
+
+
+simple program to store details of students in the heaap using struct pointers..
